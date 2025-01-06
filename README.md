@@ -1,1 +1,1 @@
-# managing-ml-workflow-for-classification-models
+# Example MLflow project
