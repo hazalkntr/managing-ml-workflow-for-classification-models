@@ -1,0 +1,12 @@
+.venv
+venv
+.venv/
+.venv\
+venv/
+venv\
+.mlruns
+mlruns
+.mlruns/
+.mlruns\
+mlruns/
+mlruns\
