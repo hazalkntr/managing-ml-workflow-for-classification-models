@@ -54,7 +54,7 @@ if __name__ == "__main__":
     warnings.filterwarnings("ignore")
     np.random.seed(40)
 
-    # Read the wine-quality csv file (make sure you're running this from the root of MLflow!)
+    # Read the wine-quality csv file 
     wine_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "wine-quality.csv")
     df = pd.read_csv(wine_path)
 
